@@ -9,7 +9,7 @@ import uuid from 'react-uuid';
 import { isEmpty } from "lodash-es";
 
 import styles from "./Chat.module.css";
-import Contoso from "../../assets/Alex.png";
+import Contoso from "../../assets/Contoso.png";
 
 import {
     ChatMessage,
